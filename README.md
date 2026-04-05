@@ -58,3 +58,6 @@ public class OrderTest {
   }
 }
 ```
+
+## UML Class Diagram
+![alt text](https://github.com/ZyCallado/lab-assignment-5-solid-principles/blob/main/LabAssign5_UML-Class-Diagram.png)
